@@ -1,6 +1,6 @@
 # _compare-the-triplets_
 
-#### _array programming challenge, 12.07.2018_
+#### _array programming challenge, 12.08.2018_
 
 #### By _**planeswalker1**_
 
